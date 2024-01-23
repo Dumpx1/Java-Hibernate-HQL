@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.hibernatedemo","l":"City"},{"p":"com.hibernatedemo","l":"Main"}];updateSearchResults();
